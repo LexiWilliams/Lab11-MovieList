@@ -1,0 +1,7 @@
+C:\Users\lexas\OneDrive\Desktop\C#\Week 3\Lab11-MovieList\Lab11-MovieList\obj\Debug\Lab11-MovieList.csprojAssemblyReference.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 3\Lab11-MovieList\Lab11-MovieList\obj\Debug\Lab11-MovieList.csproj.CoreCompileInputs.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 3\Lab11-MovieList\Lab11-MovieList\bin\Debug\Lab11-MovieList.exe.config
+C:\Users\lexas\OneDrive\Desktop\C#\Week 3\Lab11-MovieList\Lab11-MovieList\bin\Debug\Lab11-MovieList.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 3\Lab11-MovieList\Lab11-MovieList\bin\Debug\Lab11-MovieList.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Week 3\Lab11-MovieList\Lab11-MovieList\obj\Debug\Lab11-MovieList.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 3\Lab11-MovieList\Lab11-MovieList\obj\Debug\Lab11-MovieList.pdb
